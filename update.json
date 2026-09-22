@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "packageName": "io.github.kalderaloop.peersplit",
-  "versionCode": 5,
-  "versionName": "0.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/kalderaloop/PeerSplit-Updates/main/releases/v0.3.1/peersplit-0.3.1.apk",
-  "apkSha256": "ee5c856a3d4343db9aa19cd8dfd271ee6ffa8f10c6beee9ce3fc070d9f243d8f",
+  "versionCode": 6,
+  "versionName": "0.3.2",
+  "apkUrl": "https://raw.githubusercontent.com/kalderaloop/PeerSplit-Updates/main/releases/v0.3.2/peersplit-0.3.2.apk",
+  "apkSha256": "72ef6bbcffa333dabaa03ccb0d56e783d07a61074cc6fb0778199495d7d08ef7",
   "signingCertificateSha256": "b6370348acd8c746673623e10643ed2e129b8887dfc024084ccbe98a61f30e5d"
 }
